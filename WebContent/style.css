@@ -1,0 +1,32 @@
+body{
+    font-family: 'Raleway', sans-serif;
+
+}
+p{
+    font-family: 'Raleway', sans-serif;
+    font-weight: lighter;
+    }
+.fa-home{
+    color: #03738C
+}
+.fa-link{
+    color: #037F8C
+}
+.fa-address-card{
+    color: #F2E2CE
+}
+.fa-user-alt-slash{
+    color: #D93636
+}
+.fa-android{
+    color: #50BFA0
+}
+.fa-anchor{
+    color: #F25749
+}
+.fa-angellist{
+    color: #34A6BF
+}
+.navbar-brand img{
+    height: 30px
+}
